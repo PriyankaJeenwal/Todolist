@@ -1,0 +1,15 @@
+com\tasktracker\userservice\Controller\UserController.class
+com\tasktracker\userservice\enumdata\RatingEnum.class
+com\tasktracker\userservice\Entity\TaskResponse.class
+com\tasktracker\userservice\Service\UserService.class
+com\tasktracker\userservice\UserServiceApplication.class
+com\tasktracker\userservice\response\UserResponse.class
+com\tasktracker\userservice\feignclient\TaskClient.class
+com\tasktracker\userservice\enumdata\TodoTypeEnum.class
+com\tasktracker\userservice\Controller\UserControllerImpl.class
+com\tasktracker\userservice\enumdata\StatusEnum.class
+com\tasktracker\userservice\Entity\User.class
+com\tasktracker\userservice\enumdata\PriorityEnum.class
+com\tasktracker\userservice\Repository\UserRepository.class
+com\tasktracker\userservice\Entity\Task.class
+com\tasktracker\userservice\ServiceImpl\UserSeviceImpl.class

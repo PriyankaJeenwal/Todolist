@@ -1,0 +1,3 @@
+com\example\UserService\UserServiceApplicationTests.class
+com\tasktracker\userservice\ServiceImpl\UserSeviceImplTest.class
+com\tasktracker\userservice\Controller\UserControllerImplTest.class
