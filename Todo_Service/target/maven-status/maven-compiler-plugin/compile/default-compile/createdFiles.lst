@@ -1,0 +1,14 @@
+com\tasktracker\todolist\enumdata\StatusEnum.class
+com\tasktracker\todolist\TodolistApplication.class
+com\tasktracker\todolist\repository\TaskDao.class
+com\tasktracker\todolist\repository\TaskRepository.class
+com\tasktracker\todolist\response\TaskResponse.class
+com\tasktracker\todolist\serviceImpl\TaskServiceImpl.class
+com\tasktracker\todolist\scheduler\Scheduler.class
+com\tasktracker\todolist\controller\TaskControllerImpl.class
+com\tasktracker\todolist\entity\Task.class
+com\tasktracker\todolist\enumdata\TodoTypeEnum.class
+com\tasktracker\todolist\controller\TaskController.class
+com\tasktracker\todolist\enumdata\RatingEnum.class
+com\tasktracker\todolist\enumdata\PriorityEnum.class
+com\tasktracker\todolist\service\TaskService.class
